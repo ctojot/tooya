@@ -15,7 +15,7 @@ With your new understanding of C++ objects and classes, your friend thought you 
 
 Your first step? Build a Profile class that allows users to generate profile objects.
 
-The Profile should store the following information:
+### The Profile should store the following information:
 
 - User’s name
 - User’s age
@@ -25,7 +25,8 @@ The Profile should store the following information:
 - User’s hobbies
 - And this is how users should be able to interact with their own profiles:
 
-- Create a new profile with some information
+### Create a new profile with some information
+
 - Add hobbies
 - View profile
 - Let’s get started!
